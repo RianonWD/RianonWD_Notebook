@@ -8,8 +8,9 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Hey y'all! I am a Master's student at the University of Miami's Rosenstiel School for Marine, Atmospheric, and Earth Science in the [Cnidarian Immunity Lab](https://www.cnidimmunitylab.com/). 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rmw31@miami.edu](mailto:rmw31@miami.edu)
+[rianonwallacedemby@gmail.com](mailto:rianonwallacedemby@gmail.com)
